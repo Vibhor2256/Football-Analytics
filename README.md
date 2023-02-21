@@ -14,13 +14,13 @@ starts, Minutes played, No. of full 90min game, No. of Goals, No. of Assists, No
 received, Red cards received, Expected goals, Expected assists, Expected goals per 90, Expected assists per 90, No. of shot creating pass, No. of shot creating dribble,
 No. of total completed pass, No. of pass attempted, No. of key pass, No. of cross, No. of touches, No of successful dribble, Minutes per match, No of Goals per match.
 
-* Below are some snapshots of the dataset :-<br> ![](images/Screenshot_20230221_185205.png)<br><br>
-* Checking for if any NULL/Missing values :- <br> ![](images/Screenshot_20230221_185621.png)<br><br>
-* Analysed then visualised penalty missed Vs scored :- <br> ![](images/Screenshot_20230221_185840.png)<br><br>
-* Showing the visuals of counrty-wise player count :- <br> ![](images/Screenshot_20230221_190242.png)<br><br>
-* Showing the histogram graph of clubs with most player count :- <br> ![](images/Screenshot_20230221_190527.png)<br><br>
-* Showing the bar plot of clubs in ascending order of goals scored :- <br> ![](images/Screenshot_20230221_190938.png)<br><br>
-* Top 10 Players with most goals scored :- <br> ![](images/Screenshot_20230221_191233.png)<br><br>
-* Top 10 most indisciplined Players with most yellow cards :- <br> ![](images/Screenshot_20230221_191453.png)
+* Below are some snapshots of the dataset :-<br><br> ![](images/Screenshot_20230221_185205.png)<br><br>
+* Checking for if any NULL/Missing values :-<br><br> ![](images/Screenshot_20230221_185621.png)<br><br>
+* Analysed then visualised penalty missed Vs scored :-<br><br> ![](images/Screenshot_20230221_185840.png)<br><br>
+* Showing the visuals of counrty-wise player count :-<br><br> ![](images/Screenshot_20230221_190242.png)<br><br>
+* Showing the histogram graph of clubs with most player count :-<br><br> ![](images/Screenshot_20230221_190527.png)<br><br>
+* Showing the bar plot of clubs in ascending order of goals scored :-<br><br> ![](images/Screenshot_20230221_190938.png)<br><br>
+* Top 10 Players with most goals scored :-<br><br> ![](images/Screenshot_20230221_191233.png)<br><br>
+* Top 10 most indisciplined Players with most yellow cards :-<br><br> ![](images/Screenshot_20230221_191453.png)
 
 
