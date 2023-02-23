@@ -1,4 +1,4 @@
-# [Football_Analytics_Portfolio](https://github.com/Vibhor2256/Football-Analytics)
+# [Football_Analytics_Portfolio(click here for repo)](https://github.com/Vibhor2256/Football-Analytics)
 
 *This is the repository/project on analysis of English Premier League 2021-22 player's dataset.*<br><br>
 Football is the game with world's largest fan following. Also it has one of the most tecnologically advanced backing of sports science in each and every game. 
